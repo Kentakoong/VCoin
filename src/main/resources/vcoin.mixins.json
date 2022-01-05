@@ -1,13 +1,10 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "net.kentakoong.vcoin.mixin",
   "compatibilityLevel": "JAVA_16",
-  "mixins": [
-  ],
-  "client": [
-    "ExampleMixin"
-  ],
+  "mixins": [],
+  "client": ["vcoinMixin"],
   "injectors": {
     "defaultRequire": 1
   }
