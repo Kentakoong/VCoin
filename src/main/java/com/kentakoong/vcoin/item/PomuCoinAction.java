@@ -1,4 +1,6 @@
-package net.kentakoong.vcoin.item;
+package com.kentakoong.vcoin.item;
+
+import com.kentakoong.vcoin.sounds.PomuCoinSound;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
@@ -7,7 +9,6 @@ import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;
 import net.minecraft.util.TypedActionResult;
 import net.minecraft.world.World;
-import net.kentakoong.vcoin.sounds.PomuCoinSound;
 
 public class PomuCoinAction extends Item {
     public PomuCoinAction(Settings item$Settings_1) {

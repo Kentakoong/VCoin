@@ -1,6 +1,7 @@
-package net.kentakoong.vcoin.sounds;
+package com.kentakoong.vcoin.sounds;
 
-import net.kentakoong.vcoin.VCoin;
+import com.kentakoong.vcoin.VCoin;
+
 import net.minecraft.sound.SoundEvent;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;

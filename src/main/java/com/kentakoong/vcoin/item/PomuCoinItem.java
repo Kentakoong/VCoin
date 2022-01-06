@@ -1,6 +1,7 @@
-package net.kentakoong.vcoin.item;
+package com.kentakoong.vcoin.item;
 
-import net.kentakoong.vcoin.VCoin;
+import com.kentakoong.vcoin.VCoin;
+
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;

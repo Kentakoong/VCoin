@@ -16,7 +16,7 @@
 
   "environment": "*",
   "entrypoints": {
-    "main": ["net.kentakoong.vcoin.VCoin"]
+    "main": ["com.kentakoong.vcoin.VCoin"]
   },
   "mixins": ["vcoin.mixins.json"],
 

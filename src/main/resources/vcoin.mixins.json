@@ -1,10 +1,10 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.kentakoong.vcoin.mixin",
+  "package": "com.kentakoong.vcoin.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [],
-  "client": ["vcoinMixin"],
+  "client": ["VCoinMixin"],
   "injectors": {
     "defaultRequire": 1
   }

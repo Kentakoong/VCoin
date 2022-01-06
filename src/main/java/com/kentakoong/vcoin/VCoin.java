@@ -1,8 +1,9 @@
-package net.kentakoong.vcoin;
+package com.kentakoong.vcoin;
+
+import com.kentakoong.vcoin.item.PomuCoinItem;
+import com.kentakoong.vcoin.sounds.PomuCoinSound;
 
 import net.fabricmc.api.ModInitializer;
-import net.kentakoong.vcoin.sounds.PomuCoinSound;
-import net.kentakoong.vcoin.item.PomuCoinItem;
 
 public class VCoin implements ModInitializer {
 	// This logger is used to write text to the console and the log file.
